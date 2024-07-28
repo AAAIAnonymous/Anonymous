@@ -56,11 +56,11 @@ This repository contains the source code and documentation for the paper "2D Gau
 
 To get started, clone the repository and install the required dependencies:
 
-\```
+```
 git clone https://github.com/anonymous/2D-Gaussian-Bayesian-Neural-Network.git
 cd 2D-Gaussian-Bayesian-Neural-Network
 pip install -r requirements.txt
-\```
+```
 
 ## Usage
 
@@ -72,25 +72,26 @@ Place your datasets in the `data/` or `data2/` directory. The expected structure
 
 To train the model, run the following command:
 
-\```
+```
+
 python scripts/train.py --config conf/train_config.yaml
-\```
+```
 
 ### Evaluation
 
 After training, evaluate the model using:
 
-\```
+```
 python scripts/evaluate.py --model-path checkpoints/trained_model.pth --data-path data/test/
-\```
+```
 
 ### Notebooks
 
 Jupyter notebooks are provided in the `notebooks/` directory for interactive exploration and visualization:
 
-\```
+```
 jupyter notebook notebooks/
-\```
+```
 
 ## Results
 
