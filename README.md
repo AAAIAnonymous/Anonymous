@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the source code and documentation for the paper "2D Gaussian Bayesian Neural Network" submitted to the AAAI conference. The implementation includes the model architecture, training scripts, evaluation metrics, and supplementary materials necessary for replicating the results presented in the paper.
+This repository contains the source code and documentation for the paper "2D Gaussian Bayesian Neural Network" submitted to the AAAI conference. 
 
 ## Repository Structure
 
