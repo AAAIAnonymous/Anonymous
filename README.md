@@ -50,7 +50,7 @@ This repository contains the source code and documentation for the paper "2D Gau
 ├── lr_finder.py              # Learning rate finder script
 ├── no_exp_stochastic_nn.py   # No experiment stochastic neural network script
 └── original_stochastic_nn.py # Original stochastic neural network script
-
+```
 
 ## Installation
 
